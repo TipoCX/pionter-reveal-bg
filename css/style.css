@@ -1,0 +1,17 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(150deg, red, blue, red);
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 1000px rgba(0, 0, 0, 1) inset;
+    overflow: hidden;
+    aspect-ratio: 1;
+}
+
+p {
+    pointer-events: none;
+}
+
+h1 {
+    pointer-events: none;
+}
